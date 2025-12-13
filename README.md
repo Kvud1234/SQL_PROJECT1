@@ -1,4 +1,4 @@
-# SQL_PROJECT1
+# SQL_mini project1
 
 ### Retail Sales SQL Analysis 
 
